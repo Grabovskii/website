@@ -4,6 +4,8 @@ I finished my Ph.D. at University of Notre Dame under the supervision of Michael
 
 My current research interests lie in the field of cluster algebras and Poisson geometry (in particular, the Gekhtman-Shapiro-Vainshtein conjecture). I'm also interested in related problems in mathematical physics, integrable systems, representation theory, quantum groups etc. 
 
+e-mail: dvoloshy at ibs.re.kr
+
 # Preprints
 
 1. Generalized cluster structures on $\mathrm{SL}_n^{\dagger}$ (with M. Gekhtman) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
