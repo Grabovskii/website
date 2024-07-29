@@ -5,6 +5,7 @@ I finished my Ph.D. at University of Notre Dame under the supervision of Michael
 My current research interests lie in the field of cluster algebras and Poisson geometry (in particular, the Gekhtman-Shapiro-Vainshtein conjecture). I'm also interested in related problems in mathematical physics, integrable systems, representation theory, quantum groups etc. 
 
 e-mail: dvoloshy at ibs.re.kr
+other names: Dmytro Voloshyn, Dima Voloshyn
 
 # Preprints
 
