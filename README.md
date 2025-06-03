@@ -9,9 +9,9 @@ e-mail: dvoloshy at ibs.re.kr
 other names: Dmytro Voloshyn, Dima Voloshyn
 
 # Preprints
-
-1. Generalized cluster structures on $\mathrm{SL}_n^{\dagger}$ (with M. Gekhtman) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
-2. Starfish lemma via birational quasi-isomorphisms [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
+1. Multiple rational normal forms in Lie theory (2025) [arXiv:2506.01530](http://arxiv.org/abs/2506.01530)
+2. Starfish lemma via birational quasi-isomorphisms (2023) [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
+3. Generalized cluster structures on $\mathrm{SL}_n^{\dagger}$ (with M. Gekhtman) (2023) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
 
 # Papers
 
@@ -35,13 +35,22 @@ This note contains some additional information on the subject for which we didn'
 
 [pdf](./files/Double examples.pdf)
 
+# Invited talks in 2025
+1. _Poisson geometry and cluster algebras_ conference, Nankai University (January 2025)
+2. _2025 Algebra camp_, Seoul National University (February 2025)
+3. _Special session for group actions in algebraic geometry and related topics
+(SS-05)_, KMS meeting at KAIST (April 2025)
+4. _Geometry seminar, University of Hong Kong (April 2025)
+5. _Conference on Integrable Systems and Related Areas_, Institute for Basic Science, Center for Geometry and Physics (June 2025)
+
 # Invited talks in 2024
 
 1. IBS Postdoc lectures series (April 2024) [link](https://cgp.ibs.re.kr/activities/seminars/IBS-CGP_Post-doc_lecture_series)
 2. _Paris algebra seminar_ (April 2024) [link](https://researchseminars.org/seminar/paris-algebra-seminar)
-3. Gone Fishing 2024 at Northwestern university (April 2024) [link](https://sites.northwestern.edu/gonefishing24/)
-4. University of Notre Dame, _Algebraic geometry and Commutative algebra seminar_ (April 2024) [link](https://math.nd.edu/events/2024/04/25/algebraic-geometry-and-commutative-algebra-dmytro-voloshyn-ibs-center-for-geometry-and-phyiscs-pohang/)
-5. Korea Institute for Advanced Studies (KIAS), _Geometry, Algebra and Physics Seminar_ (May 2024) [link](https://sites.google.com/view/gapkias)
+3. _Gone Fishing 2024_, Northwestern university (April 2024) [link](https://sites.northwestern.edu/gonefishing24/)
+4. _Algebraic geometry and Commutative algebra seminar_, University of Notre Dame (April 2024) [link](https://math.nd.edu/events/2024/04/25/algebraic-geometry-and-commutative-algebra-dmytro-voloshyn-ibs-center-for-geometry-and-phyiscs-pohang/)
+5. _Geometry, Algebra and Physics Seminar_, Korea Institute for Advanced Studies (KIAS) (May 2024) [link](https://sites.google.com/view/gapkias)
+6. _Special session for representation theory and related topics (SS-01)_, KMS meeting at Sungkyunkwan University (October 2025)
 
 # Other links
 
