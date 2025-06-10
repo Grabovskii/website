@@ -11,7 +11,7 @@ other names: Dmytro Voloshyn, Dima Voloshyn
 # Preprints
 1. Multiple rational normal forms in Lie theory (2025) [arXiv:2506.01530](http://arxiv.org/abs/2506.01530)
 2. Starfish lemma via birational quasi-isomorphisms (2023) [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
-3. Generalized cluster structures on $\mathrm{SL}_n^{\dagger}$ (with M. Gekhtman) (2023) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
+3. Generalized cluster structures related to Poisson duals of $\mathrm{SL}_n$ (with M. Gekhtman) (2023) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
 
 # Papers
 
@@ -26,7 +26,7 @@ It's an overview of the current state of Poisson geometry on simple complex alge
 
 [video](https://www.youtube.com/watch?v=Ddvv5glu0qw) [pdf notes](./files/Cluster algebras and Poisson geometry, KIAS May 2024.pdf) [.pptx notes](./files/Cluster algebras and Poisson geometry, KIAS May 2024.pptx)
 
-### Supplementary note to Generalized cluster structures on $\mathrm{SL}_n^{\dagger}$ [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
+### Supplementary note to Generalized cluster structures related to Poisson duals of $\mathrm{SL}_n$ [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
 This note contains some additional information on the subject for which we didn't have enough space in the actual paper. Moreover, it contains some explicitly computed examples of generalized cluster structures on $(\mathrm{SL},\pi_{\mathbf{\Gamma}}^{\dagger})$ for various Belavin-Drinfeld triples $\mathbf{\Gamma}$.
 
 [pdf](./files/Dagger examples.pdf)
@@ -40,7 +40,7 @@ This note contains some additional information on the subject for which we didn'
 2. _2025 Algebra camp_, Seoul National University (February 2025)
 3. _Special session for group actions in algebraic geometry and related topics
 (SS-05)_, KMS meeting at KAIST (April 2025)
-4. _Geometry seminar, University of Hong Kong (April 2025)
+4. _Geometry seminar_, University of Hong Kong (April 2025)
 5. _Conference on Integrable Systems and Related Areas_, Institute for Basic Science, Center for Geometry and Physics (June 2025)
 
 # Invited talks in 2024
