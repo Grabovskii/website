@@ -11,11 +11,11 @@ other names: Dmytro Voloshyn, Dima Voloshyn
 # Preprints
 1. Multiple rational normal forms in Lie theory (2025) [arXiv:2506.01530](http://arxiv.org/abs/2506.01530)
 2. Starfish lemma via birational quasi-isomorphisms (2023) [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
-3. Generalized cluster structures related to Poisson duals of $\mathrm{SL}_n$ (with M. Gekhtman) (2023) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
 
 # Papers
 
 1. Multiple generalized cluster structures on $D(\mathrm{GL}_n)$, Forum of Mathematics, Sigma **11**(46) (2023), 1--78. [doi:10.1017/fms.2023.44](https://doi.org/10.1017/fms.2023.44) [arXiv:2111.01771](https://arxiv.org/abs/2111.01771)
+2. Generalized cluster structures related to Poisson duals of $\mathrm{SL}_n$ (with M. Gekhtman) (2023) (to appear in Memoirs of European Mathematical Society) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
 
 # Videos & Notes
 
@@ -42,6 +42,7 @@ This note contains some additional information on the subject for which we didn'
 (SS-05)_, KMS meeting at KAIST (April 2025)
 4. _Geometry seminar_, University of Hong Kong (April 2025)
 5. _Conference on Integrable Systems and Related Areas_, Institute for Basic Science, Center for Geometry and Physics (June 2025)
+6. _Cluster algebras and Poisson geometry_ conference, Sichuan University (October 2025)
 
 # Invited talks in 2024
 
