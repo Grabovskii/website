@@ -2,7 +2,7 @@ I'm a senior researcher (postdoc) at Institute for Basic Science (IBS), Center f
 
 I finished my Ph.D. at University of Notre Dame under the supervision of Michael Gekhtman in 2022.
 
-My current research interests lie in the field of cluster algebras and Poisson geometry (in particular, the Gekhtman-Shapiro-Vainshtein conjecture). I'm also interested in related problems in mathematical physics, integrable systems, representation theory, quantum groups etc. 
+My current research interests lie in the field of cluster algebras and Poisson geometry (in particular, the Gekhtman--Shapiro--Vainshtein conjecture). I'm also interested in related problems in mathematical physics, integrable systems, representation theory, quantum groups etc. 
 
 e-mail: dvoloshy at ibs.re.kr
 
