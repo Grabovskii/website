@@ -9,10 +9,10 @@ e-mail: dvoloshy at ibs.re.kr
 other names: Dmytro Voloshyn, Dima Voloshyn
 
 # Papers
-1. Multiple generalized cluster structures on $D(\mathrm{GL}_n)$. *Forum of Mathematics, Sigma* **11** (2023), no. 46, 1--78. [doi:10.1017/fms.2023.44](https://doi.org/10.1017/fms.2023.44) [arXiv:2111.01771](https://arxiv.org/abs/2111.01771)
-2. Starfish lemma via birational quasi-isomorphisms. *Journal of Pure and Applied Algebra* **229** (2025), no. 12, 108127. [doi:10.1016/j.jpaa.2025.108127](https://doi.org/10.1016/j.jpaa.2025.108127) [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
+4. Multiple rational normal forms in Lie theory (2025) (to appear in *Journal of Algebra*) [arXiv:2506.01530](http://arxiv.org/abs/2506.01530)
 3. Generalized cluster structures related to Poisson duals of $\mathrm{SL}_n$ (with M. Gekhtman) (2023) (to appear in *Memoirs of European Mathematical Society*) [arXiv:2312.04859](https://arxiv.org/abs/2312.04859)
-4. Multiple rational normal forms in Lie theory (2025) (to appear in *Journal of Algebra*) [arXiv:2506.01530](http://arxiv.org/abs/2506.01530) 
+2. Starfish lemma via birational quasi-isomorphisms. *Journal of Pure and Applied Algebra* **229** (2025), no. 12, 108127. [doi:10.1016/j.jpaa.2025.108127](https://doi.org/10.1016/j.jpaa.2025.108127) [arXiv:2311.00404](https://arxiv.org/abs/2311.00404)
+1. Multiple generalized cluster structures on $D(\mathrm{GL}_n)$. *Forum of Mathematics, Sigma* **11** (2023), no. 46, 1--78. [doi:10.1017/fms.2023.44](https://doi.org/10.1017/fms.2023.44) [arXiv:2111.01771](https://arxiv.org/abs/2111.01771)
 
 
 # Videos & Notes
