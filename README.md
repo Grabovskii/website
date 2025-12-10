@@ -39,7 +39,7 @@ This note contains some additional information on the subject for which we didn'
 (SS-05)_, KMS meeting at KAIST (April 2025)
 4. _Geometry seminar_, University of Hong Kong (April 2025)
 5. _Conference on Integrable Systems and Related Areas_, Institute for Basic Science, Center for Geometry and Physics (June 2025)
-6. _Cluster algebras and Poisson geometry_ conference, Sichuan University (October 2025)
+6. _Workshop on Cluster algebras and Poisson geometry_, Sichuan University (October 2025)
 
 # Invited talks in 2024
 
